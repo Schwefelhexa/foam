@@ -22,4 +22,6 @@
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
+  "spellright.language": ["de_DE", "en_US"],
+  "spellright.documentTypes": ["markdown", "latex", "plaintext"]
 }
