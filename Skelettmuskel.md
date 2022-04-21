@@ -4,6 +4,8 @@
 
 Fast immer [[Quergestreifter Muskel]], also willentlich kontrollierbar
 
+love alex <3
+
 ## Aufbau
 
 - [[Sehne]]: Zugfeste Struktur, Verbindung Knochen <-> Sehne
