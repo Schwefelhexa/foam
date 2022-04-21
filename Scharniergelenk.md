@@ -1,0 +1,3 @@
+# Scharniergelenk
+
+![](attachments/Scharniergelenk.png)
